@@ -1,7 +1,7 @@
 
 import random
 
-Lower_case = "abcdefghigklmnopqrstuvwxyz"
+lower_case = "abcdefghigklmnopqrstuvwxyz"
 upper_case = "ABCDEFGHIGKLMNOPQRSTUVWXYZ"
 number = "01941528390"
 symbol = "~!@#$%^&*+_:"
